@@ -1,0 +1,28 @@
+# Node modules
+/node_modules/
+
+# Logs
+*.log
+logs/
+
+# NPM package lock file
+/package-lock.json
+
+# dotenv environment variables file
+.env
+
+# Build output
+/dist/
+/build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional folders
+/uploads/
+
+# IDEs and text editors
+.vscode/
+.idea/
+*.swp
